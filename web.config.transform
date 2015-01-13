@@ -1,0 +1,9 @@
+﻿<configuration>
+    <system.web>
+      <pages>
+        <controls>
+          <add tagPrefix="ky" assembly="KY.Controls" namespace="KY.Controls" />
+        </controls>
+      </pages>
+    </system.web>
+</configuration>
