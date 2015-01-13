@@ -99,3 +99,9 @@ public partial class Default : System.Web.UI.Page
     }
 }
 ```
+
+## Installation
+To install KY.Controls, run the following command in the Package Manager Console
+```
+PM> Install-Package KY.Controls
+```
